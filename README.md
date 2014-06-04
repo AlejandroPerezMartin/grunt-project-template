@@ -15,7 +15,7 @@ Template for use personal in web projects using Grunt.js
     - Error linting and file minification `grunt build`
 
 ## Installation on Linux (Ubuntu/Mint)
-* Open terminal and type: `sudo apt-get install nodejs*`
+* To install Node.js, open terminal and type: ```sh sudo apt-get install nodejs*```
 * Download or clone this repo: `git clone https://github.com/AlejandroPerezMartin/grunt-project-template.git`
 * Go to directory `cd grunt-project-template...`
 * Run this command to install Grunt's command line interface (CLI): `npm install -g grunt-cli`
