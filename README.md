@@ -3,7 +3,6 @@ Grunt.js Project Template
 
 Template for use personal in web projects using Grunt.js
 
----
 ## Installation on Windows
 * Download and install Node.js for Windows: http://nodejs.org/
 * Download or clone this repo: `git clone https://github.com/AlejandroPerezMartin/grunt-project-template.git`
@@ -14,8 +13,6 @@ Template for use personal in web projects using Grunt.js
     - Error 'linting' on file change `grunt`
     - Error 'linting' `grunt dev`
     - Error linting and file minification `grunt build`
-
----
 
 ## Installation on Linux (Ubuntu/Mint)
 * Open terminal and type: `sudo apt-get install nodejs*`
