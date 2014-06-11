@@ -18,7 +18,7 @@ Template for personal use in web projects that uses Grunt.js
 * To install Node.js, open terminal and type: ```sh sudo apt-get install nodejs*```
 * Download or clone this repo: `git clone https://github.com/AlejandroPerezMartin/grunt-project-template.git`
 * Go to directory `cd grunt-project-template...`
-* Run this command to install Grunt's command line interface (CLI): `npm install -g grunt-cli`
+* Run this command to install Grunt's command line interface (CLI): `sudo npm install -g grunt-cli`
 * Install dependencies: `npm install`
 * Now you can start tasks by typing:
     - Error 'linting' on file change `grunt`
