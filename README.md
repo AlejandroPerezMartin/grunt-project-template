@@ -1,7 +1,7 @@
 Grunt.js Project Template
 =========================
 
-Template for personal use in web projects that uses Grunt.js
+Template for personal use in web projects where Grunt.js is used.
 
 ## Installation on Windows
 * Download and install Node.js for Windows: http://nodejs.org/
