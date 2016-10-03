@@ -21,7 +21,6 @@
         "grunt-contrib-uglify": "latest",
         "grunt-uncss": "latest",
         "grunt-contrib-watch": "latest",
-        "grunt-uncss": "latest",
         "jshint-stylish": "latest"
     }
 }
