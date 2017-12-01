@@ -1,6 +1,8 @@
 Grunt.js Project Template
 =========================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/AlejandroPerezMartin/grunt-project-template.svg)](https://greenkeeper.io/)
+
 Template for personal use in web projects where Grunt.js is used.
 
 ## Installation on Windows
